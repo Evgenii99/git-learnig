@@ -1,3 +1,8 @@
+
 some code(;);
 another some code (" ;");
 print("goodbye world;");
+print("asdsa;");
+int a = 123;
+String wassa = wassilii;
+
